@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+#######################################################################
+# Author: Lehlohonolo Adolf Matobakele  
+# Email: lehlohonolo.matobakele@gov.ls
+# Contacxt: 00266 62320704
+#######################################################################
 import math, random, sys
 import pygame
 
